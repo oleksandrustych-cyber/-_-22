@@ -13,6 +13,7 @@ namespace ConsoleApp5
 
             while (true)
             {
+                Hello word
                 Console.WriteLine("\n--- МЕНЮ ---");
                 Console.WriteLine("1. Закодувати (Encode)");
                 Console.WriteLine("2. Декодувати (Decode)");

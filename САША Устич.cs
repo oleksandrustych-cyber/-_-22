@@ -41,7 +41,8 @@ namespace ConsoleApp5
                         Console.WriteLine($"Довжина найдовшого підрядка: {length}");
                         break;
                     default:
-                        Console.WriteLine("Невірний вибір.");
+                        
+                        Console.WriteLine("Невірний вибір Себастьян.");
                         break;
                 }
             }
